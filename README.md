@@ -3,4 +3,4 @@ Welcome to my AWS Projects Portfolio! This repository is a showcase of my profic
 # list of projects : 
 1. Static web hosting.
 2. Lambda start-stop EC2
-3. Depoying VPC using Terraform
+3. Deploy a VPC using Terraform
