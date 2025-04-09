@@ -25,4 +25,6 @@ Scheduling the Lambda Function
    
 6. Define the schedule based on your requirements, specifying when to start and stop instances.
    
-7. Using IaC (terraform) to deploy the infrastructure
+7. Using IaC (terraform) to deploy the infrastructure.
+   # Reference:
+   Kevin Kiruri
