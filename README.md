@@ -6,3 +6,5 @@ Hello!, I'm Nafisa Abid-ali Talwarawala, an AWS Solutions Architect with experie
 1. Static web hosting.
 2. Lambda start-stop EC2
 3. Deploy a VPC using Terraform
+4. AWS Personalize Demo
+
